@@ -1,0 +1,1 @@
+{"version":3,"file":"getStories.js","sourceRoot":"","sources":["../../src/dstories/getStories.ts"],"names":[],"mappings":";;AACA,yDAAoD;AAEpD,kBAAe,CAAC,GAAY,EAAE,GAAa,EAAE,EAAE;IAC3C,yCAAyC;IAEzC,MAAM,QAAQ,GAAG,uBAAU,CAAC,iBAAiB,EAAE,CAAC;IAEhD,OAAO,GAAG,CAAC,IAAI,CAAC,QAAQ,CAAC,CAAC;AAE9B,CAAC,CAAA"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"getProjects.js","sourceRoot":"","sources":["../../src/dprojects/getProjects.ts"],"names":[],"mappings":";;AACA,yDAAoD;AAEpD,kBAAe,CAAC,GAAY,EAAE,GAAa,EAAE,EAAE;IAC3C,yCAAyC;IAEzC,MAAM,QAAQ,GAAG,uBAAU,CAAC,kBAAkB,EAAE,CAAC;IAEjD,OAAO,GAAG,CAAC,IAAI,CAAC,QAAQ,CAAC,CAAC;AAG9B,CAAC,CAAA"}
